@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## about the website 
+In this project, work has been done on building a website and a mobile application that aims to create an electronic market in which shop owners 
+and deliverers of orders interact to provide the service of displaying products and delivering them to customers.
+The store owner manages the products and adds them to the site so that they appear to the users, who in turn can order these products and deliver 
+them through the order connector to the site entered by the user.
+The website was built using Laravel-Blade. The mobile application in this project was built using the Flutter framework on the client side and the 
+Laravel framework with MySql database management system on the server side.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
@@ -56,14 +64,6 @@ Thank you for considering contributing to the Laravel framework! The contributio
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
 ## Security Vulnerabilities
-
-## about the website 
-In this project, work has been done on building a website and a mobile application that aims to create an electronic market in which shop owners 
-and deliverers of orders interact to provide the service of displaying products and delivering them to customers.
-The store owner manages the products and adds them to the site so that they appear to the users, who in turn can order these products and deliver 
-them through the order connector to the site entered by the user.
-The website was built using Laravel-Blade. The mobile application in this project was built using the Flutter framework on the client side and the 
-Laravel framework with MySql database management system on the server side.
 
 if you want to see the flutter side go to my github page and search under (E-commerce user-app) repository.
 
