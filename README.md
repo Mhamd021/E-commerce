@@ -58,18 +58,14 @@ In order to ensure that the Laravel community is welcoming to all, please review
 ## Security Vulnerabilities
 
 ## about the website 
-In this project, work has been done on building a website and a mobile 
-application that aims to create an electronic market in which shop owners 
-and deliverers of orders interact to provide the service of displaying 
-products and delivering them to customers.
-The store owner manages the products and adds them to the site so that 
-they appear to the users, who in turn can order these products and deliver 
+In this project, work has been done on building a website and a mobile application that aims to create an electronic market in which shop owners 
+and deliverers of orders interact to provide the service of displaying products and delivering them to customers.
+The store owner manages the products and adds them to the site so that they appear to the users, who in turn can order these products and deliver 
 them through the order connector to the site entered by the user.
-The website was built using Laravel-Blade. The mobile application in this 
-project was built using the Flutter framework on the client side and the 
-Laravel framework with MySql database management system on the server 
-side.
-if you want to see the flutter side go to my github page and search under (user-app) repository.
+The website was built using Laravel-Blade. The mobile application in this project was built using the Flutter framework on the client side and the 
+Laravel framework with MySql database management system on the server side.
+
+if you want to see the flutter side go to my github page and search under (E-commerce user-app) repository.
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
